@@ -15,7 +15,7 @@ export default function Footer() {
             Con todo mi amor y admiración
           </p>
           <p className="text-sm text-pink-200">
-            Hecha con 💕 para mi mujer hermosa | 2025
+            Hecha con 💕 para mi mujer hermosa | 2026
           </p>
         </div>
       </div>

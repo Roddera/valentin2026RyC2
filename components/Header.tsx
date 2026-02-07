@@ -18,7 +18,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto relative z-10 text-center">
         <div className="flex items-center justify-center gap-3 mb-2">
           <span className="text-3xl animate-pulse">💝</span>
-          <h1 className="text-3xl md:text-4xl font-display font-bold">San Valentín 2025</h1>
+          <h1 className="text-3xl md:text-4xl font-display font-bold">San Valentín 2026</h1>
           <span className="text-3xl animate-pulse" style={{ animationDelay: '0.5s' }}>
             💝
           </span>
